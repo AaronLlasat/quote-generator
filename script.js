@@ -74,4 +74,3 @@ tweetBtn.addEventListener("click", tweetQuote);
 
 //On load
 getQuotes();
-
